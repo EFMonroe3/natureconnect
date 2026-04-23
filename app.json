@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "1981b6bf-bb01-43a9-bfa4-d7f82a335a6e"
+      }
+    },
+    "android": {
+      "package": "com.natureconnect.app"
+    }
+  }
+}
